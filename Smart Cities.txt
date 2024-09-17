@@ -1,0 +1,8 @@
+Approximately 55% of the global population lives in urban areas. When designing and implementing future cityscapes, urban planners must address the aspirations and concerns of residents, such as environmental sustainability, equity, affordability, and public health. Smart cities assist in streamlining urban planning endeavours via their integrated, responsive smart tech systems connected to the Internet of Things. Real-time data from people, devices, and infrastructure in these cities are analysed to enhance sustainable resource usage, city services and operations, and overall liveability.
+
+—
+
+Urban Planning and Smart Cities
+Urban planning is the planning of cities for the future. It is a holistic, interdisciplinary field whose practitioners consult with residents, listen to their needs, and, based on this feedback, draft and implement landscapes and buildings wherein people will live, work, and play. The goal is to actualise local aspirations into material reality using the built environment (and greenfield land).
+
+Over half the global population currently resides in urban areas. This worldwide proportion is estimated to reach nearly 70% by 2050 due to rural-urban drift. Many regions have already exceeded this percentage. For example, Australian statistics from 2021 show that 86% of residents live in urban and suburban areas. And in some locales, such as Singapore, Hong Kong, and Kuwait, the population is 100% urban. 

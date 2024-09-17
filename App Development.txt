@@ -1,0 +1,47 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+<meta charset="UTF-8">
+<meta name="viewport" content="width=device-width, initial-scale=1.0">
+<title>Mobile Application Development</title>
+</head>
+<body>
+
+<h1>Mobile Application Development</h1>
+
+<p>
+    Mobile application development is the process of making software for smartphones, tablets, and digital assistants, most commonly for the Android and iOS operating systems.
+</p>
+
+<p>
+    The software can be preinstalled on the device, downloaded from a mobile app store, or accessed through a mobile web browser. The programming and markup languages used for this kind of software development include Java, Swift, C#, and HTML5.
+</p>
+
+<p>
+    Mobile app development is rapidly growing. From retail, telecommunications, and e-commerce to insurance, healthcare, and government, organizations across industries must meet user expectations for real-time, convenient ways to conduct transactions and access information.
+</p>
+
+<p>
+    Today, mobile devices and the mobile applications that unlock their value are the most popular way for people and businesses to connect to the internet. To stay relevant, responsive, and successful, organizations need to develop the mobile applications that their customers, partners, and employees demand.
+</p>
+
+<p>
+    Yet mobile application development might seem daunting. Once you’ve selected the OS platform or platforms, you need to overcome the limitations of mobile devices and usher your app all the way past the potential hurdles of distribution. Fortunately, by following a few basic guidelines and best practices, you can streamline your application development journey.
+</p>
+
+<p>
+    To learn more about the specifics of mobile application development on either platform, read our articles on <a href="ios_app_development.html">iOS app development</a> and <a href="android_app_development.html">Android app development</a>.
+</p>
+
+<h2>Guide</h2>
+<p>
+    Realize the full value of your hybrid cloud. Connect and integrate your systems to prepare your infrastructure for AI.
+</p>
+
+<h3>Related content</h3>
+<p>
+    Register for the guide on DaaS.
+</p>
+
+</body>
+</html>

@@ -1,0 +1,17 @@
+Cybersecurity and data protection are words that people tend to use interchangeably. While they have similarities and often overlap, it’s kind of like discussing a rectangle and a square where both have four sides but are distinct shapes. In a digital world, your cybersecurity posture directly impacts your data protection and privacy initiatives. 
+
+Over the last few years, malicious actors have increased the number and speed of their attacks. According to the 2022 Verizon Data Breach Investigations Report, the median number of records compromised per breach in 2021 was 80,000. Additionally, the report noted that 8,465 Distributed Denial of Service (DDoS) attacks occurred in 2021, with four leading to confirmed data disclosure. In short, you can experience a cybersecurity incident without necessarily experiencing a data breach. 
+
+Understanding the key differences between cybersecurity and data protection can help you better understand their unique benefits, especially when it comes to ensuring customer privacy. 
+
+What is the difference between data protection and cybersecurity?
+Data protection is a subset of cybersecurity. While data protection focuses on ensuring data integrity, cybersecurity takes a broader approach by focusing on all the digital networks and systems that collect, transmit, process, and store information. While they complement each other, they also have distinctions that you need to understand. 
+
+What is cybersecurity?
+Cybersecurity consists of the technologies, people, and processes that protect systems and networks. Usually, your cybersecurity program focuses on things like:
+
+Endpoint security: making sure devices are updated. 
+Identity and Access Management (IAM): limiting access using a “need to know” approach.
+Network security: monitoring for abnormal activity on networks.
+Data security: protecting data from unauthorized changes.
+Application security: ensuring applications have security patches and can’t be used by cybercriminals.

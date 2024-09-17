@@ -1,0 +1,16 @@
+"virtuality" redirects here. for other uses, see virtuality (disambiguation) and virtual reality (disambiguation).
+not to be confused with simulated reality, augmented reality, or virtual economy.
+
+an operator controlling the virtual interface environment workstation (view)[1] at nasa ames
+virtual reality (vr) is a simulated experience that employs 3d near-eye displays and pose tracking to 
+give the user an immersive feel of a virtual world. applications of virtual reality include entertainment 
+(particularly video games), education (such as medical, safety or military training) and business
+ (such as virtual meetings). vr is one of the key technologies in the reality-virtuality continuum.
+ as such, it is different from other digital visualization solutions, such as augmented virtuality
+ and augmented reality.[2]
+
+currently, standard virtual reality systems use either virtual reality headsets or multi-projected 
+environments to generate some realistic images, sounds and other sensations that simulate a user's 
+physical presence in a virtual environment. a person using virtual reality equipment is able to look 
+around the artificial world, move around in it, and interact with virtual features or items. the effect 
+is commonly created by vr headsets consisting of a head-mounted display with a small screen in front of the eyes, but can also be created through specially designed rooms with multiple large screens. virtual reality typically incorporates auditory and video feedback, but may also allow other types of sensory and force feedback through haptic technology.

@@ -1,0 +1,4 @@
+6.	Cloud Computing 
+
+
+Cloud computing is defined as the use of hosted services, such as data storage, servers, databases, networking, and software over the internet. Since cloud computing began, the world has witnessed an explosion of cloud-based applications and services in IT, which continue to expand. Almost every application we use resides on the cloud, helping us save storage space, expenses, and time. This article discusses the types of cloud computing and 10 trends to watch out for.

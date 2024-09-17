@@ -1,0 +1,28 @@
+the difference between automation and robotics
+the terms “automation” and “robotics” are sometimes used interchangeably, but there are minor differences between the two.
+
+automation is the process of using technology to complete human tasks.
+robotics is the process of developing robots to carry out a particular function.
+not all types of automation use robots – and not all robots are designed for process automation. that said, most robots are used for that specific reason – especially in the context of industrial use.
+
+automation vs. robotics
+
+traditional robots have sensors – like audio and visual sensors – that allow them to carry out complex physical processes without (or with very minimal) assistance from a human. (an example: a robot that travels around a warehouse, collecting items for orders.)
+
+however, there’s also such a thing as a “software robot”, which refers to a computer program. software robots – which can also be referred to as desktop automation or robotic process automation – are designed to conduct virtual processes rather than physical ones. for instance, some companies use data recognition software, which can be configured to “read” documents the same way that a human would. this reduces the need for manual data entry, which – when done by a human – can be time-consuming and error-prone.
+
+machine learning & ai
+now that we’ve covered automation vs. robotics, we can introduce machine learning and ai (artificial intelligence) to the conversation as well.
+
+artificial intelligence is the concept of using “smart” machines to complete tasks.
+machine learning is the practice of users “teaching” machines how they should function.
+while all forms of automation are taught at some point in their development, machine learning is an ongoing practice. these are the programs that become more adept at their jobs the more frequently they’re used.
+
+machine learning tools are considered semi-autonomous. they can function well on their own, although they do require occasional user input to “teach” them how to make complex decisions in real time. (autonomous robots, on the other hand, work entirely without human intervention.)
+
+the role of automation, robotics, machine learning, and ai in business
+here’s where all of these terms come together.
+
+if you’re looking to incorporate new technologies into your business, you may have several options to consider. it all depends on what type of goals you’re looking to achieve.
+
+if you’re looking to assemble your products more quickly, a robot may be able to help you speed up your factory operations. if you’re looking to make repetitive administrative tasks more efficient, software-driven process automation would be more appropriate.

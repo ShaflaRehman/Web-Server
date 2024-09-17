@@ -1,0 +1,18 @@
+Blockchain Technology and Cryptocurrencies
+Blockchain technology records and confirms cryptocurrency trades, much like a digital ledger. A blockchain collects and stores the information when you buy, sell, or exchange cryptocurrency. This information stays in a secure location that’s not under a centralized government overseeing or controlling the cryptocurrency market. Many professionals consider crypto coins a “global currency” because they hold the same value worldwide. 
+
+With blockchain technology, each transaction or piece of data is stored  as a “block.” You then add this block to the existing chain of blocks to create a chronological picture of all activity. The blockchain is secure and transparent, so each block is irreversible and viewable by everyone. 
+
+Blockchain in cryptocurrency 
+
+Bitcoin, Ethereum, and other wide-scale cryptocurrency coins use blockchain to process and record transactions securely. This remains the primary use of the technology. However, it is making its way into projects outside of cryptocurrency. Understanding how these blocks are coded and how different industries may benefit from this application can help you market yourself to new roles in this field.
+
+
+How blockchain works: key terms to know
+As the uses of blockchain technology continue to expand, learning some of the key terms will likely be helpful if you begin working in this field.
+
+Blocks: As the name suggests, Blockchain is a chain of blocks. Each time a transaction occurs, the data becomes a new block. This block has a cryptographic hash that links it to the most recent block, a notation of the time, and a record of transaction information. The blocks link in chronological order and can record each new block on devices around the world rather than on one or two devices. This ensures accurate, transparent, and permanent records. 
+
+Mining: Mining describes the process of updating the blockchain by adding blocks and creating new coins. For this, miners validate the transactions, which requires them to solve cryptographic hash puzzles. Once miners validate your transaction, you can add the block to the blockchain ledger and update records. This type of validation requires high-level computing power and advanced equipment. Those pursuing a career in mining often invest in this type of equipment and receive Bitcoins or other cryptocurrencies as payment for mining efforts.
+
+Nodes: A node in blockchain technology is a computer that runs blockchain software and has access to the blockchain. The network of nodes in the blockchain is all the computers that run the database. Every node updates with the latest version of the blockchain, so there is a decentralized record of all transactions. 
